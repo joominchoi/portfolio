@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Triceracops",
+    subtitle: "React, JSX, Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "a murder-mystery escape room style game, final project at Makers",
+    image: "./triceracops.gif",
+    link: "https://github.com/jooomin/tricera-cops",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "AceBook",
+    subtitle: "Ruby on Rails, PostgreSQL, Rspec, CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "a full-stack web app imitating the basic functions of Facebook",
+    image: "./acebook.gif",
+    link: "https://github.com/jooomin/acebook-smells-like-team-spirit",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Notes App",
+    subtitle: "Javascript, HTML, CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "a web app for taking notes",
+    image: "./notesapp.gif",
+    link: "https://github.com/jooomin/notes_app",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Weather App",
+    subtitle: "Next.js, SCSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "a web app for checking weather conditions in different locations",
+    image: "./weatherapp.gif",
+    link: "https://github.com/jooomin/weather-app-next.js",
   },
 ];
 

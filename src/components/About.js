@@ -7,9 +7,8 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             About Me
-            {/* <br className="hidden lg:inline-block" /> Check out my portfolio! */}
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed font-light">
           Managing a business for six years allowed me to see first-hand the power and importance of technology. From switching to an EPOS to creating a website as well as running promotions on the various social media platforms, I experienced how efficient and valuable these tools are, both for companies and customers alike.
           <br/>
           Realising that technology is an indispensable aspect of the world we live in today, my interest for technology grew ever more, which naturally led me to teaching myself to code before eventually joining Makers.

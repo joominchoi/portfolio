@@ -51,10 +51,16 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Ruby",
   "JavaScript",
+  "SQL",
+  "HTML",
+  "CSS",
+  "Ruby on Rails",
   "React",
   "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "RSpec",
+  "Jasmine",
+  "Sinatra",
+  "PostgreSQL"
 ];
